@@ -20,8 +20,6 @@ pricing, and electric vehicle penetration from 2010–2024.
 - How does average model price relate to sales volume?
 - How are sales distributed across performance classifications?
 
-## Key KPIs
-
 | KPI | Result |
 |---|---:|
 | Total Sales Volume | 253M |
@@ -33,14 +31,41 @@ pricing, and electric vehicle penetration from 2010–2024.
 
 ## Key Insights
 
-- 2024 sales volume increased 7.74% compared with 2023.
-- Electric vehicles represent 24.93% of total sales volume.
-- The 7 Series is the highest-volume model.
-- Asia is the leading region by sales volume.
-- Hybrid represents the largest fuel category.
-- High and Low sales classifications are relatively balanced.
-- Model pricing and sales volume were compared to identify
-  relationships between price positioning and sales performance.
+- **Sales Momentum:** 2024 sales volume increased **7.74% YoY** compared with 2023.
+- **EV Penetration:** Electric vehicles account for **24.93%** of total sales volume.
+- **Model Leader:** The **7 Series** ranks first by sales volume at approximately **23.8M**.
+- **Regional Leader:** **Asia** leads regional sales at approximately **43.0M**, narrowly ahead of Europe and North America.
+- **Fuel Mix:** **Hybrid** is the largest fuel category at approximately **64.5M** sales volume.
+- **Sales Classification:** High-classification sales contribute approximately **129.6M**, compared with **123.8M** for Low classification.
+- **Pricing Analysis:** Model-level price and sales volume were compared to identify relationships between price positioning and demand.
+
+## Project Workflow
+
+Raw BMW Sales Data
+        ↓
+Data Cleaning & Transformation
+        ↓
+Power Query
+        ↓
+Data Modeling
+        ↓
+DAX Measures
+        ↓
+Interactive Power BI Dashboard
+        ↓
+Business Insights
+
+
+## Analytical Approach
+
+1. Cleaned and prepared the BMW sales dataset using Power Query.
+2. Built DAX measures for sales, pricing, growth, EV share, top model and top region.
+3. Analyzed sales trends across 2010–2024.
+4. Compared regional and model-level performance.
+5. Analyzed fuel-type distribution and EV penetration.
+6. Examined the relationship between vehicle price and sales volume.
+7. Added interactive slicers for Year, Region, Fuel Type, Transmission and Model.
+8. Converted the analysis into executive-level business insights.
 
 ## Dashboard Features
 
