@@ -8,7 +8,7 @@ pricing, and electric vehicle penetration from 2010–2024.
 
 ## Dashboard Preview
 
-"C:\Users\AMISHA KURANKAR\Downloads\BMW InsightDrive\Dashboard screenshots\bmw.png"
+<img width="1420" height="805" alt="bmw" src="https://github.com/user-attachments/assets/595dbc05-be75-4f68-88c2-f9deaefb8fc8" />
 
 ## Business Questions
 
